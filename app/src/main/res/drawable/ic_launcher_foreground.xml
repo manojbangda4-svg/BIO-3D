@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer 3D orbital ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.8"
+        android:pathData="M54,24 A30,30 0 1,0 54,84 A30,30 0 1,0 54,24 Z" />
+    <!-- Tilted bio-orbit ellipse -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#2DD4BF"
+        android:strokeWidth="2.2"
+        android:pathData="M28,44 C34,30 68,30 80,48 C86,58 76,74 56,74 C36,74 22,58 28,44 Z" />
+    <!-- Central anatomical heart / cellular core silhouette -->
+    <path
+        android:fillColor="#FB7185"
+        android:pathData="M54,72 C54,72 34,59.5 34,46.5 C34,40.2 38.8,35.5 44.8,35.5 C48.4,35.5 51.7,37.3 54,40.3 C56.3,37.3 59.6,35.5 63.2,35.5 C69.2,35.5 74,40.2 74,46.5 C74,59.5 54,72 54,72 Z" />
+    <!-- Inner luminous nucleus highlight -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,46 A6,6 0 1,0 54,58 A6,6 0 1,0 54,46 Z" />
+    <!-- Neural / cellular node dots -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,21 A3,3 0 1,0 54,27 A3,3 0 1,0 54,21 Z" />
+    <path
+        android:fillColor="#2DD4BF"
+        android:pathData="M78,43 A2.8,2.8 0 1,0 78,48.6 A2.8,2.8 0 1,0 78,43 Z" />
+    <path
+        android:fillColor="#2DD4BF"
+        android:pathData="M30,57 A2.8,2.8 0 1,0 30,62.6 A2.8,2.8 0 1,0 30,57 Z" />
+</vector>

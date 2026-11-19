@@ -1,0 +1,6 @@
+{
+  "name": "3D BIO",
+  "description": "AI-powered 3D human anatomy and biology explorer with web-grounded scientific answers for any organ, cell, bone, or internal structure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
